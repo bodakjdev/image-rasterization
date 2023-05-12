@@ -1,0 +1,34 @@
+M:\repos\cg\task3\Rasterization\bin\Debug\net6.0-windows\Rasterization.exe
+M:\repos\cg\task3\Rasterization\bin\Debug\net6.0-windows\Rasterization.deps.json
+M:\repos\cg\task3\Rasterization\bin\Debug\net6.0-windows\Rasterization.runtimeconfig.json
+M:\repos\cg\task3\Rasterization\bin\Debug\net6.0-windows\Rasterization.dll
+M:\repos\cg\task3\Rasterization\bin\Debug\net6.0-windows\Rasterization.pdb
+M:\repos\cg\task3\Rasterization\obj\Debug\net6.0-windows\Rasterization.csproj.AssemblyReference.cache
+M:\repos\cg\task3\Rasterization\obj\Debug\net6.0-windows\Rasterization.Form1.resources
+M:\repos\cg\task3\Rasterization\obj\Debug\net6.0-windows\Rasterization.csproj.GenerateResource.cache
+M:\repos\cg\task3\Rasterization\obj\Debug\net6.0-windows\Rasterization.GeneratedMSBuildEditorConfig.editorconfig
+M:\repos\cg\task3\Rasterization\obj\Debug\net6.0-windows\Rasterization.AssemblyInfoInputs.cache
+M:\repos\cg\task3\Rasterization\obj\Debug\net6.0-windows\Rasterization.AssemblyInfo.cs
+M:\repos\cg\task3\Rasterization\obj\Debug\net6.0-windows\Rasterization.csproj.CoreCompileInputs.cache
+M:\repos\cg\task3\Rasterization\obj\Debug\net6.0-windows\Rasterization.dll
+M:\repos\cg\task3\Rasterization\obj\Debug\net6.0-windows\refint\Rasterization.dll
+M:\repos\cg\task3\Rasterization\obj\Debug\net6.0-windows\Rasterization.pdb
+M:\repos\cg\task3\Rasterization\obj\Debug\net6.0-windows\Rasterization.genruntimeconfig.cache
+M:\repos\cg\task3\Rasterization\obj\Debug\net6.0-windows\ref\Rasterization.dll
+C:\Users\Jakub Bodak\Desktop\task3\task3\Rasterization\bin\Debug\net6.0-windows\Rasterization.exe
+C:\Users\Jakub Bodak\Desktop\task3\task3\Rasterization\bin\Debug\net6.0-windows\Rasterization.deps.json
+C:\Users\Jakub Bodak\Desktop\task3\task3\Rasterization\bin\Debug\net6.0-windows\Rasterization.runtimeconfig.json
+C:\Users\Jakub Bodak\Desktop\task3\task3\Rasterization\bin\Debug\net6.0-windows\Rasterization.dll
+C:\Users\Jakub Bodak\Desktop\task3\task3\Rasterization\bin\Debug\net6.0-windows\Rasterization.pdb
+C:\Users\Jakub Bodak\Desktop\task3\task3\Rasterization\obj\Debug\net6.0-windows\Rasterization.csproj.AssemblyReference.cache
+C:\Users\Jakub Bodak\Desktop\task3\task3\Rasterization\obj\Debug\net6.0-windows\Rasterization.Form1.resources
+C:\Users\Jakub Bodak\Desktop\task3\task3\Rasterization\obj\Debug\net6.0-windows\Rasterization.csproj.GenerateResource.cache
+C:\Users\Jakub Bodak\Desktop\task3\task3\Rasterization\obj\Debug\net6.0-windows\Rasterization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub Bodak\Desktop\task3\task3\Rasterization\obj\Debug\net6.0-windows\Rasterization.AssemblyInfoInputs.cache
+C:\Users\Jakub Bodak\Desktop\task3\task3\Rasterization\obj\Debug\net6.0-windows\Rasterization.AssemblyInfo.cs
+C:\Users\Jakub Bodak\Desktop\task3\task3\Rasterization\obj\Debug\net6.0-windows\Rasterization.csproj.CoreCompileInputs.cache
+C:\Users\Jakub Bodak\Desktop\task3\task3\Rasterization\obj\Debug\net6.0-windows\Rasterization.dll
+C:\Users\Jakub Bodak\Desktop\task3\task3\Rasterization\obj\Debug\net6.0-windows\refint\Rasterization.dll
+C:\Users\Jakub Bodak\Desktop\task3\task3\Rasterization\obj\Debug\net6.0-windows\Rasterization.pdb
+C:\Users\Jakub Bodak\Desktop\task3\task3\Rasterization\obj\Debug\net6.0-windows\Rasterization.genruntimeconfig.cache
+C:\Users\Jakub Bodak\Desktop\task3\task3\Rasterization\obj\Debug\net6.0-windows\ref\Rasterization.dll
